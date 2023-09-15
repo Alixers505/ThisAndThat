@@ -26,6 +26,10 @@ A random repository of small js projects
 ## Games
 [g]: #games
 
+  * [Five Letter Words](/five-letter-words/)
+      - Word game modeled off of Wordle
+
+
 <br>
 
 
